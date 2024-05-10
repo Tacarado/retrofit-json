@@ -1,0 +1,39 @@
+{
+    "gryPlanszowe": [
+        {
+            "nazwa": "Odjechane jednorożce",
+            "minWiek": "18",
+            "minLiczbaGraczy":"2",
+            "maxLiczbaGraczy":"8",
+            "czasGry":"30"
+        },
+        {
+            "nazwa": "Tajniacy",
+            "minWiek": "14",
+            "minLiczbaGraczy":"2",
+            "maxLiczbaGraczy":"8",
+            "czasGry":"10"
+        },
+        {
+            "nazwa": "Ekspodujące kotki: Dobro kontra Zło",
+            "minWiek": "12",
+            "minLiczbaGraczy":"2",
+            "maxLiczbaGraczy":"5",
+            "czasGry":"15"
+        },
+        {
+            "nazwa": "Eksplodujące Kotki: Zombie",
+            "minWiek": "12",
+            "minLiczbaGraczy":"2",
+            "maxLiczbaGraczy":"5",
+            "czasGry":"15"
+        },
+        {
+            "nazwa": "Eksplodujące Kotki: Koci złodziejaszek",
+            "minWiek": "12",
+            "minLiczbaGraczy":"2",
+            "maxLiczbaGraczy":"5",
+            "czasGry":"15"
+        }
+    ]
+}
